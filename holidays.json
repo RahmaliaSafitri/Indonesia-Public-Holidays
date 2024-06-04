@@ -118,7 +118,8 @@
     "2024-02-14": {"summary": "Hari Pemilihan"},
     "2024-03-11": {"summary": "Hari Suci Nyepi (Tahun Baru Saka)"},
     "2024-03-12": {"summary": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)"},
-    "2024-03-29": {"summary": "Wafat Isa Almasih"}, "2024-03-31": {"summary": "Hari Paskah"},
+    "2024-03-29": {"summary": "Wafat Isa Almasih"}, 
+    "2024-03-31": {"summary": "Hari Paskah"},
     "2024-04-08": {"summary": "Cuti Bersama Idul Fitri"},
     "2024-04-09": {"summary": "Cuti Bersama Idul Fitri"},
     "2024-04-10": {"summary": "Hari Idul Fitri"},
@@ -154,4 +155,4 @@
     "2025-08-17": {"summary": "Hari Proklamasi Kemerdekaan R.I."},
     "2025-09-05": {"summary": "Maulid Nabi Muhammad"},
     "2025-12-25": {"summary": "Hari Raya Natal"},
-    "info": {"author": "guangrei", "link": "https://github.com/RahmaliaSafitri", "updated": "20240604 12:08:00"}}
+    "info": {"author": "rahmalia", "link": "https://github.com/RahmaliaSafitri", "updated": "20240604 12:08:00"}}
